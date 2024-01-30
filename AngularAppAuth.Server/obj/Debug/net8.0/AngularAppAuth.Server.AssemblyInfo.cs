@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularAppAuth.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77bf916e9d1d29f57a35a258c82d8a8adc715473")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2efd864efc757ef4d4729175a09dd2518f1ff08c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularAppAuth.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularAppAuth.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

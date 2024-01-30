@@ -9,7 +9,6 @@ namespace AngularAppAuth.Server.Context
 
 
         public AppDbcontext(DbContextOptions<AppDbcontext> options) : base(options)
-
         {
               
         }
